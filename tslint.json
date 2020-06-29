@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "backend-tslint-rules"
+    ],
+    "rules": {
+        "max-line-length": [
+            true,
+            180
+        ],
+        "no-default-import": false,
+        "no-default-export": false,
+        "no-implicit-dependencies": false,
+        "newline-per-chained-call": false
+    }
+}
